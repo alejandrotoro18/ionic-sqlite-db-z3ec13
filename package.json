@@ -1,0 +1,30 @@
+{
+  "name": "ionic-sqlite-db",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "add": "2.0.6",
+    "rxjs": "5.4.0",
+    "ionic": "3.19.0",
+    "plugin": "0.3.3",
+    "cordova": "7.1.0",
+    "core-js": "2.4.1",
+    "zone.js": "0.8.12",
+    "typescript": "2.3.4",
+    "@angular/core": "4.1.3",
+    "@angular/http": "4.1.3",
+    "ionic-angular": "3.5.2",
+    "@angular/forms": "4.1.3",
+    "cordova-js-zip": "0.0.1",
+    "@angular/common": "4.1.3",
+    "@angular/compiler": "4.1.3",
+    "@ionic-native/core": "4.5.2",
+    "@ionic-native/toast": "4.5.2",
+    "@ionic-native/sqlite": "4.5.2",
+    "@angular/compiler-cli": "4.1.3",
+    "cordova-plugin-x-toast": "2.6.0",
+    "cordova-sqlite-storage": "2.1.4",
+    "@angular/platform-browser": "4.1.3",
+    "@angular/platform-browser-dynamic": "4.1.3"
+  }
+}
